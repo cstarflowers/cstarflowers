@@ -1,5 +1,6 @@
 # Starflower! ･ ｡ﾟ ☆
-<pre><?cs>using UnityEngine;
+```cs
+using UnityEngine;
 
 public class Starflower : MonoBehaviour {
 
@@ -9,8 +10,9 @@ public class Starflower : MonoBehaviour {
 
     Debug.Log("Sometimes I make games!");
     Debug.Log("Most of them are very sad...");
-    }
-}</cs></pre>
+  }
+}
+```
 
 ## Showcase (2021-2023)
 |           |         |          
