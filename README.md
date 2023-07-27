@@ -1,4 +1,5 @@
 # ･ ｡ﾟ ☆: Starflower :☽ .*. ~
+<pre><?cs>
 using UnityEngine;
 
 public class Starflower : MonoBehaviour {
@@ -7,3 +8,4 @@ public class Starflower : MonoBehaviour {
     Debug.Log("Sometimes I make games");
     }
 }
+</cs></pre>
