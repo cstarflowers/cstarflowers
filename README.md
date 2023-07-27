@@ -14,8 +14,10 @@ public class Starflower : MonoBehaviour {
 }
 ```
 
+<!--
 ## Showcase (2021-2023)
 |           |         |          
 |:---:      |    :---:|
 | ![DimensionCat 1](https://i.imgur.com/jM72pkY.png) | ![DimensionCat 2](https://i.imgur.com/whx7uxg.png) |
 | ![Silhouette 1](https://i.imgur.com/g4JyJon.png) | ![Silhouette 2](https://i.imgur.com/V3dW4dW.png) |
+-->
