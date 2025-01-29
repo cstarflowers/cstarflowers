@@ -5,7 +5,7 @@ using UnityEngine;
 public class Starflower : MonoBehaviour {
 
   private void README() {
-    // Any pronouns 💖
+    // Ignite Class of '25!
     // Huge cat, music, and film lover
 
     Debug.Log("Sometimes I make games!");
