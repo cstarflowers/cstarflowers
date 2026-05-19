@@ -1,23 +1,15 @@
 # Welcome to my GitHub! ･ ｡ﾟ ☆
-```cs
-using UnityEngine;
-
-public class Starflower : MonoBehaviour {
-
-  private void README() {
-    // Georgia Tech '29!
-    // Huge cat, music, and film lover
-
-    Debug.Log("Sometimes I make games!");
-    Debug.Log("Most of them are very sad...");
-  }
+```java
+public class cstarflowers {
+    int GRAD_YEAR = 2029;
+    String[] languages = new String[]{"Java", "Python", "JS", "C#", "C++"};
+    public static void main(String[] args) {
+        String output = "Hello! My name is Carson!" +
+                "\nI'm a Computational Media major at Georgia Tech!" +
+                "\nI also really love cats, rock music, and indie games.";
+        System.out.println(output);
+        // Thanks so much for stopping by! :)
+    }
 }
-```
 
-<!--
-## Showcase (2021-2023)
-|           |         |          
-|:---:      |    :---:|
-| ![DimensionCat 1](https://i.imgur.com/jM72pkY.png) | ![DimensionCat 2](https://i.imgur.com/whx7uxg.png) |
-| ![Silhouette 1](https://i.imgur.com/g4JyJon.png) | ![Silhouette 2](https://i.imgur.com/V3dW4dW.png) |
--->
+```
