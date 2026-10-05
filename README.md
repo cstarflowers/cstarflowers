@@ -8,6 +8,7 @@ public class cstarflowers {
                 "\nI'm a Computational Media major at Georgia Tech!" +
                 "\nI also really love cats, rock music, and indie games.";
         System.out.println(output);
+        // View my portfolio: https://github.com/cstarflowers/portfolio
         // Thanks so much for stopping by! :)
     }
 }
